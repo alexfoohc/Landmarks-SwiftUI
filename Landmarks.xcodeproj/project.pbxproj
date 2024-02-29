@@ -71,8 +71,8 @@
 			children = (
 				7DC9925D2B89BB4700A83709 /* LandmarksApp.swift */,
 				7DC992752B89C47800A83709 /* Views */,
-				7DECF60C2B9022B1003D8F98 /* Helpers */,
 				7DC992762B89C48900A83709 /* Model */,
+				7DECF60C2B9022B1003D8F98 /* Helpers */,
 				7DC992772B89C49C00A83709 /* Resources */,
 				7DC992612B89BB4900A83709 /* Assets.xcassets */,
 				7DC992632B89BB4900A83709 /* Preview Content */,
